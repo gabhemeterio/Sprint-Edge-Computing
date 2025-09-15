@@ -6,7 +6,7 @@
 ## 👩‍💻 Integrantes
 
 - [Alana Vieira Batista | Felippe Nascimento Silva | Gabriel S. Hemeterio | Kawan Oliveira Amorim | Matheus Hideki Doroszewski Yoshimura]
-- RMs: [xxxxxx | 562123 | 566243 | xxxxxx | 564970]
+- RMs: [563796 | 562123 | 566243 | 562197 | 564970]
 
 ---
 
@@ -125,7 +125,7 @@ node-red
 
 ## 🎬 Vídeo Demonstrativo
 
-📺 [Assista ao vídeo explicativo no YouTube](x)
+📺 [Assista ao vídeo explicativo no YouTube](https://youtu.be/MQLlES3oMfk)
 
 ---
 
