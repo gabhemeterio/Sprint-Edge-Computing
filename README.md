@@ -127,6 +127,8 @@ node-red
 
 📺 [Assista ao vídeo explicativo no YouTube](x)
 
+---
+
 ## 📸 Prints da Dashboard
 
 ![Gauges](assets/Gauges-Simulados1H.png)
