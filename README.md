@@ -108,7 +108,7 @@ node-red
 ├── jogadora2.ino                 # Código Wokwi ESP32 – Jogadora 2
 ├── README.md                     # Este arquivo
 └── assets/
-    └── arquitetura.png          
+    └── Arquitetura-Diagrama.png          
 ```
 
 ---
