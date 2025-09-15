@@ -103,7 +103,7 @@ node-red
 
 ```
 .
-├── flow.json                      # Flow completo do Node-RED com jogadora 1 e 2
+├── flow.json                     # Flow completo do Node-RED com jogadora 1 e 2
 ├── jogadora1.ino                 # Código Wokwi ESP32 – Jogadora 1
 ├── jogadora2.ino                 # Código Wokwi ESP32 – Jogadora 2
 ├── README.md                     # Este arquivo
@@ -116,7 +116,9 @@ node-red
 ## 📌 Observações Finais
 
 -O projeto foi concebido com foco em eficiência, simplicidade e escalabilidade, utilizando apenas tecnologias leves e de fácil integração (ESP32, MQTT, Node-RED).
+
 -A simulação pode ser facilmente adaptada para um cenário real, conectando sensores físicos e vestíveis para coleta de dados em campo.
+
 -O painel foi estruturado de forma modular e visualmente intuitiva, permitindo expansão futura com novas métricas ou integração com bancos de dados, alertas inteligentes e exportação de relatórios.
 
 ---
