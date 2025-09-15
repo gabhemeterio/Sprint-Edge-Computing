@@ -1,0 +1,22 @@
+[
+    {
+        "id": "5a73f37ebb567604",
+        "type": "function",
+        "z": "45056b4a38806dce",
+        "name": "Construir Tabela",
+        "func": "\nlet j1 = flow.get(\"j1_data\") || {};\nlet j2 = flow.get(\"j2_data\") || {};\n\nmsg.payload = [\n  {\n    Jogadora: \"Jogadora 1\",\n    Velocidade: j1.velocidade || 0,\n    Passes: j1.passes || 0,\n    Gols: j1.gols || 0,\n    BPM: j1.bpm || 0,\n    Temp: j1.temp || 0,\n  },\n  {\n    Jogadora: \"Jogadora 2\",\n    Velocidade: j2.velocidade || 0,\n    Passes: j2.passes || 0,\n    Gols: j2.gols || 0,\n    BPM: j2.bpm || 0,\n    Temp: j2.temp || 0,\n  }\n];\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": "",
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 830,
+        "y": 420,
+        "wires": [
+            [
+                "378081e847d8ad45"
+            ]
+        ]
+    }
+]
